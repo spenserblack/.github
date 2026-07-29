@@ -5,7 +5,7 @@ guidelines on their usage.
 
 ## You should understand the changes you are submitting
 
-This section should be self-evident, and doesn't require elaboration.
+This section should be self-evident, and does not require elaboration.
 
 ## The best AI code is not noticeably AI at all
 

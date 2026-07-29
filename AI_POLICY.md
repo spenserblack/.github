@@ -1,8 +1,7 @@
 # AI Policy
 
-There are no strict rules, and currently no stance on whether or not AI-assisted
-contributions are prohibited or welcome. There are, however, some guidelines based
-on personal experience.
+This policy neither condemns nor condones the usage of LLMs and agents, but provides
+guidelines on their usage.
 
 ## You should understand the changes you are submitting
 
